@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+temp_video.mp4
+*.pyc
+.streamlit/
